@@ -7,3 +7,5 @@ function goodbye(){
 	console.log("Good Bye");
 }
 goodbye();
+
+hi
